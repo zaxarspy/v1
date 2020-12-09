@@ -6,4 +6,4 @@ alert('EDIT SETTING');
 var zaxtype = zaxset['type'];
 var zaxlang = zaxset['lang'];
 }
-var zaxsrc = "https://raw.githack.com//"+zaxversion+"/main/"+zaxtype+"/"+zaxlang+".js";
+var zaxsrc = "https://raw.githack.com/zaxarspy/"+zaxversion+"/main/"+zaxtype+"/"+zaxlang+".js";

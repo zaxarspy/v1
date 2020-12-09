@@ -1,1 +1,1 @@
-aler('en');
+alert('en');
